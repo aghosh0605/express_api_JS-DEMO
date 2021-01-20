@@ -14,6 +14,10 @@ can edit the database. The functions we can do are:-
 The HTTP method that were used:-
 
 *GET
+
 *POST
+
 *PUT
+
 *DELETE
+
