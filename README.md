@@ -15,19 +15,19 @@ Commands you may need:
 This programme can save data in a JSON file as object and we 
 can edit the database. The functions we can do are:-
 
-*Add new data
+* Add new data
 
-*Show full database
+* Show full database
 
-*Delete any data
+* Delete any data
 
 The HTTP method that were used:-
 
-*GET
+* GET
 
-*POST
+* POST
 
-*PUT
+* PUT
 
-*DELETE
+* DELETE
 
